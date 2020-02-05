@@ -1,0 +1,12 @@
+Assignment
+-------------------------------------------------------------------------
+
+1. Implement DAO logic to display products between price range
+2.  Implement DAO logic to display products between product numbers 
+ 3. Implement DAO logic to delete product by product id
+ 4. Implement DAO logic to update product by product Id
+  
+  Note:
+  ->Should  MEET code quality as per SOLID DP
+  
+  
